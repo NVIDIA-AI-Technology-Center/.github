@@ -1,16 +1,10 @@
 ## NVIDIA AI Technology Center
 
-The goal of the NVIDIA AI Technology Center (NVAITC) is to enable and accelerate AI research, education and adoption, using supercomputing resources based on NVIDIA technology, as well as to foster academic collaborations across the NVAITC network.
-
-A central objective of NVAITC collaborations is to provide support to specific research projects in AI and Applied AI, governed by an approved statement of work. The goal of projects is to foster technological development based on research, and to publish and otherwise disseminate results of the project’s work.
-
-NVAITC enables researchers to benefit from NVIDIA’s expertise in utilizing GPU and AI Computing. 
-
-NVAITC projects enable academics at all levels to do their research more efficiently.
+The goal of the NVIDIA AI Technology Center (NVAITC) is to enable and accelerate AI research, education and adoption, using supercomputing resources based on NVIDIA technology, as well as to foster academic collaborations across the NVAITC network. A central objective of NVAITC collaborations is to provide support to specific research projects in AI and Applied AI, governed by an approved statement of work. The goal of projects is to foster technological development based on research, and to publish and otherwise disseminate results of the project’s work. NVAITC enables researchers to benefit from NVIDIA’s expertise in utilizing GPU and A I Computing. NVAITC projects enable academics at all levels to do their research more efficiently.
 
 ### Playbooks 
 
-As researchers invest a lot of effort to unlock the full potential of AI, the need for scalable and efficient implementations has become funamental, particularly when dealing with large models, diverse data formats, and high-performance systems. As NVAITC, we are working to facilitate this process by developing comprehensive tools, materials, and recipes that simplify AI adoption at scale.
+As researchers invest a lot of effort to unlock the full potential of AI, the need for scalable and efficient tools has become funamental, particularly when dealing with large models, diverse data formats, and high-performance systems. As NVAITC, we are working to facilitate this process by developing comprehensive tools, materials, and recipes that simplify AI adoption at scale.
 
 The **NVAITC Playbooks** provide NVIDIA-based scalable reference implementations for common AI use-cases in research.
 
