@@ -7,3 +7,12 @@ A central objective of NVAITC collaborations is to provide support to specific r
 NVAITC enables researchers to benefit from NVIDIA’s expertise in utilizing GPU and AI Computing. 
 
 NVAITC projects enable academics at all levels to do their research more efficiently.
+
+### Playbooks 
+
+As researchers invest a lot of effort to unlock the full potential of AI, the need for scalable and efficient implementations has become funamental, particularly when dealing with large models, diverse data formats, and high-performance systems. As NVAITC, we are working to facilitate this process by developing comprehensive tools, materials, and recipes that simplify AI adoption at scale.
+
+The **NVAITC Playbooks** provide NVIDIA-based scalable reference implementations for common AI use-cases in research.
+
+- [multi-scale-agentic-rag-playbook](https://github.com/NVIDIA-AI-Technology-Center/multi-scale-agentic-rag-playbook): A playbook showcasing how to create a RAG pipeline working at different scales.
+- [synthetic-data-generation-and-sft-playbook](https://github.com/NVIDIA-AI-Technology-Center/synthetic-data-generation-and-sft-playbook): A playbook showcasing a scalable pipeline to finetune an LLM on synthetically enriched data through using the NeMo Framework.
