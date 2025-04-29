@@ -10,3 +10,5 @@ The **NVAITC Playbooks** provide NVIDIA-based scalable reference implementations
 
 - [multi-scale-agentic-rag-playbook](https://github.com/NVIDIA-AI-Technology-Center/multi-scale-agentic-rag-playbook): A playbook showcasing how to create a RAG pipeline working at different scales.
 - [synthetic-data-generation-and-sft-playbook](https://github.com/NVIDIA-AI-Technology-Center/synthetic-data-generation-and-sft-playbook): A playbook showcasing a scalable pipeline to finetune an LLM on synthetically enriched data through using the NeMo Framework.
+- [accelerated-video-for-ai-playbook](https://github.com/NVIDIA-AI-Technology-Center/accelerated-video-for-ai-playbook): A playbook delving into HW and SW aspects that accelerate video processing for machine learning applications and proposes solutions on how to speed up dataloading with DALI and pyNvVideoCodec.
+- [hpc-ai-online-training-playbook](https://github.com/NVIDIA-AI-Technology-Center/hpc-ai-online-training-playbook): A playbook demonstrating how the perform online deep learning training and inference in a numerical simulation application using our TorchFort library.
